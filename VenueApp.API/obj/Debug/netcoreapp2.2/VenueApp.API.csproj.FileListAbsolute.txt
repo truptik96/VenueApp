@@ -1,0 +1,14 @@
+C:\Users\ELPRO1\VenueApp\VenueApp.API\bin\Debug\netcoreapp2.2\VenueApp.API.deps.json
+C:\Users\ELPRO1\VenueApp\VenueApp.API\bin\Debug\netcoreapp2.2\VenueApp.API.runtimeconfig.json
+C:\Users\ELPRO1\VenueApp\VenueApp.API\bin\Debug\netcoreapp2.2\VenueApp.API.runtimeconfig.dev.json
+C:\Users\ELPRO1\VenueApp\VenueApp.API\bin\Debug\netcoreapp2.2\VenueApp.API.dll
+C:\Users\ELPRO1\VenueApp\VenueApp.API\bin\Debug\netcoreapp2.2\VenueApp.API.pdb
+C:\Users\ELPRO1\VenueApp\VenueApp.API\obj\Debug\netcoreapp2.2\VenueApp.API.csprojAssemblyReference.cache
+C:\Users\ELPRO1\VenueApp\VenueApp.API\obj\Debug\netcoreapp2.2\VenueApp.API.csproj.CoreCompileInputs.cache
+C:\Users\ELPRO1\VenueApp\VenueApp.API\obj\Debug\netcoreapp2.2\VenueApp.API.RazorAssemblyInfo.cache
+C:\Users\ELPRO1\VenueApp\VenueApp.API\obj\Debug\netcoreapp2.2\VenueApp.API.RazorAssemblyInfo.cs
+C:\Users\ELPRO1\VenueApp\VenueApp.API\obj\Debug\netcoreapp2.2\VenueApp.API.AssemblyInfoInputs.cache
+C:\Users\ELPRO1\VenueApp\VenueApp.API\obj\Debug\netcoreapp2.2\VenueApp.API.AssemblyInfo.cs
+C:\Users\ELPRO1\VenueApp\VenueApp.API\obj\Debug\netcoreapp2.2\VenueApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\ELPRO1\VenueApp\VenueApp.API\obj\Debug\netcoreapp2.2\VenueApp.API.dll
+C:\Users\ELPRO1\VenueApp\VenueApp.API\obj\Debug\netcoreapp2.2\VenueApp.API.pdb
